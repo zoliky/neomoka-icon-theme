@@ -18,6 +18,7 @@ preferences-desktop-theme.png org.xfce.settings.appearance.png
 preferences-desktop-wallpaper.png org.xfce.xfdesktop.png
 preferences-system-notifications.png org.xfce.notification.png
 preferences-system-search.png org.xfce.appfinder.png
+preferences-system-windows.png org.xfce.xfwm4.png
 system-file-manager.png org.xfce.thunar.png
 utilities-system-monitor.png org.xfce.taskmanager.png
 vscode.png com.visualstudio.code.oss.png
